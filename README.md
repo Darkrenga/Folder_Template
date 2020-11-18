@@ -6,25 +6,22 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="PUBLIC/img/News.svg" alt="Logo" width="80" height="80">
+  <a href="https://LinkWithTheImageToSomeWhere.com"> <!--Image linking somewhere, perhaps your github or other places where you have projects-->
+    <img src="Public/img/fillerImg.png" alt="Logo" width="80" height="80"> <!--Image relevant to you-->
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">README-Template</h3> <!--Title of the project-->
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    My README template for making kickstarting projects <!--what the project is about-->
     <br />
-    <a href="https://techcollege.dk"><strong>This company requested this »</strong></a>
+    <a href="https://techcollege.dk"><strong>This company requested this »</strong></a> 
+    <!--Who asked for this, or other references-->
     <br />
     <br />
   </p>
@@ -53,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](<!--Skal der linkes et sted så her-->)
+[![Product Name Screen Shot][product-screenshot]]("https://www.google.com")
 
 Hvad er problemstilling bag projektets skabelse, altså hvad er grunden til projektet blev lavet
 
@@ -188,10 +185,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/Darkrenga/infoboard-media-n-news/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/Darkrenga/infoboard-media-n-news/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/daniel-jensen-713841180/
-[product-screenshot]: https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png
+
+<!--Link to your product screensho-->
+[product-screenshot]: https://pasteboard.co/JATT4Ot.png
